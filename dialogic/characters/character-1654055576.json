@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Upgrader",
+	"display_name_bool": true,
+	"id": "character-1654055576.json",
+	"mirror_portraits": false,
+	"name": "upgrade_merchant",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -112,
+	"offset_y": -192,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://ui/portraits/unknown.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

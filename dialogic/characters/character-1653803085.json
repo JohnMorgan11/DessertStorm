@@ -1,0 +1,41 @@
+{
+	"color": "#ffffffe7",
+	"description": "",
+	"display_name": "Ice Creamer",
+	"display_name_bool": true,
+	"id": "character-1653803085.json",
+	"mirror_portraits": false,
+	"name": "ice_creamer",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -112,
+	"offset_y": -192,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://ui/dialogue/ice_creamer/neutral.png"
+		},
+		{
+			"name": "afraid",
+			"path": "res://ui/dialogue/ice_creamer/afraid.png"
+		},
+		{
+			"name": "crazed",
+			"path": "res://ui/dialogue/ice_creamer/crazed.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://ui/dialogue/ice_creamer/happy.png"
+		},
+		{
+			"name": "sad",
+			"path": "res://ui/dialogue/ice_creamer/sad.png"
+		},
+		{
+			"name": "annoyed",
+			"path": "res://ui/dialogue/ice_creamer/annoyed.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

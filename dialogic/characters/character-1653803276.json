@@ -1,0 +1,37 @@
+{
+	"color": "#ffff8f00",
+	"description": "",
+	"display_name": "Jelly Belly",
+	"display_name_bool": true,
+	"id": "character-1653803276.json",
+	"mirror_portraits": false,
+	"name": "jelly_belly",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -112,
+	"offset_y": -192,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://ui/dialogue/jelly_belly/neutral.png"
+		},
+		{
+			"name": "afraid",
+			"path": "res://ui/dialogue/jelly_belly/afraid.png"
+		},
+		{
+			"name": "annoyed",
+			"path": "res://ui/dialogue/jelly_belly/annoyed.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://ui/dialogue/jelly_belly/happy.png"
+		},
+		{
+			"name": "sad",
+			"path": "res://ui/dialogue/jelly_belly/sad.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

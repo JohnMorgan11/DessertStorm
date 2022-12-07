@@ -1,0 +1,21 @@
+{
+	"color": "#fffdffc1",
+	"description": "",
+	"display_name": "Queen Kuchen",
+	"display_name_bool": true,
+	"id": "character-1653549118.json",
+	"mirror_portraits": false,
+	"name": "queen_kuchen",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

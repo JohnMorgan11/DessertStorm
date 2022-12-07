@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "Mobstopper",
+	"display_name_bool": true,
+	"id": "character-1653808794.json",
+	"mirror_portraits": false,
+	"name": "mobstopper",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -112,
+	"offset_y": -192,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://ui/dialogue/mobstopper/mobstopper.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

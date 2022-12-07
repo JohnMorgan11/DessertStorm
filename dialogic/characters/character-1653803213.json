@@ -1,0 +1,37 @@
+{
+	"color": "#ff7a00ff",
+	"description": "",
+	"display_name": "Sugar Beet",
+	"display_name_bool": true,
+	"id": "character-1653803213.json",
+	"mirror_portraits": false,
+	"name": "sugar_beet",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -112,
+	"offset_y": -192,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://ui/dialogue/sugar_beet/neutral.png"
+		},
+		{
+			"name": "afraid",
+			"path": "res://ui/dialogue/sugar_beet/afraid.png"
+		},
+		{
+			"name": "annoyed",
+			"path": "res://ui/dialogue/sugar_beet/annoyed.png"
+		},
+		{
+			"name": "happy",
+			"path": "res://ui/dialogue/sugar_beet/happy.png"
+		},
+		{
+			"name": "sad",
+			"path": "res://ui/dialogue/sugar_beet/sad.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}
